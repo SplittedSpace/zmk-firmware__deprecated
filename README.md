@@ -1,3 +1,12 @@
+**!!DEPRECATED**
+
+We don't use this forked ZMK version anymore. 
+
+See these repositories for the new configuration:
+
+* [https://github.com/SplittedSpace/harper-zmk-config]()
+* [https://github.com/SplittedSpace/hallie-zmk-config]()
+
 # Zephyr™ Mechanical Keyboard (ZMK) Firmware
 
 [![Discord](https://img.shields.io/discord/719497620560543766)](https://zmk.dev/community/discord/invite)
